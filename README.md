@@ -1,16 +1,18 @@
-### Hi there 👋
+### Olá! :metal:
 
-<!--
-**amagnosouza/amagnosouza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+Sou Analista de Suporte, atuo na área desde 2015 (apagando fogo :fire:). Graduado em Análise e Desenvolvimento de Sistemas codando por curiosidade e um foco maior em infraestrutura. Não tenho blog, não escrevo em lugar nenhum e não sou famoso.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Aqui será a forja :hammer: e berço de novos conhecimentos!
+
+Café sem açucar :coffee:, ler :green_book: e jogar RPG/Magic.  
+Sou pai do :baby: Bento.  
+
+---
+
+Você me acha aqui :satellite:
+
+<a href="https://twitter.com/amagnosouza1"><img src="https://github.com/amagnosouza/amagnosouza/blob/main/images/twitter.png" width="16"></img></a> [Twitter](https://twitter.com/amagnosouza1)
+
+<a href="https://www.linkedin.com/in/amagnosouza"><img src="https://github.com/amagnosouza/amagnosouza/blob/main/images/linkedin.png" width="16"></img></a> [LinkedIn](https://www.linkedin.com/in/amagnosouza)
